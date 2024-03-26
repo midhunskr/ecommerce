@@ -37,6 +37,8 @@ p{
 #menu{
     width: 2%;
 }
+
+
 li a:hover{
     border-bottom: 3px solid #e8c36631;
     border-radius: 1px;
