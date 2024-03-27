@@ -322,7 +322,7 @@ li a:hover{
     }
 
     #product1 .pro-container{
-        margin: 0 12%;
+        margin: 0 9%;
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     
@@ -337,7 +337,7 @@ li a:hover{
     }
 
     #product1 .pro-container{
-        margin: 0 15%;
+        margin: 0 18%;
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     
